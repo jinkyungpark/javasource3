@@ -1,5 +1,16 @@
 package ch1;
 
+/* 기본타입(primitive type)
+ * 정수형,실수형,불린형,문자형
+ * 초기화가 반드시 필요함
+ *
+ * 인코딩(ASCII, 유니코드(UTF-8,UTF-16))
+ * A ===> 65
+ *
+ * 디코딩
+ * 65 ===> A
+ */
+
 public class VarByteEx1 {
 
   public static void main(String[] args) {
